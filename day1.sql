@@ -4,7 +4,7 @@ CREATE DATABASE training;
 
 use training;
 
--- --------------------
+-- --------------------------------------------------------------------------------------------------------
 -- DDL   -- Data Definition Language ( CREATE, ALTER, DROP, TRUNCATE )
 -- DML  -- DATA MANUPULATION LANGUAGE (INSERT, UPDATE, DELETE)
 -- DCL  -- DATA CONTROL LANGUAGE ( GRANT, REVOKE)
